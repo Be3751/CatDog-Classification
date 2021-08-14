@@ -1,2 +1,2 @@
 # CatDog-Classification
-A repository for my practice in CNN classifying cat and dog. 
+A repository for my practice in CNN judging whether it's a cat image or a dog image. 
