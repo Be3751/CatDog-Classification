@@ -6,3 +6,8 @@ A repository for my practice in CNN judging whether it's a cat image or a dog im
 
 ## Notebook
 * https://colab.research.google.com/drive/1D1s1Bw2ujJcYBg7YqTia06PP3o90y0-b#scrollTo=ApbIEWTAGdIx
+
+## Result
+
+
+## Detail
